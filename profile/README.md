@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to Smash Keyboard Studios Organisation.
+Here is our HQ for making games.
+
 <!--
 
 **Here are some ideas to get you started:**
